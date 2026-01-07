@@ -1,4 +1,4 @@
-# 🎬 ShowVerse (Backend)
+# 🎬 ShowVerse
 
 ShowVerse is a **full-stack MERN application** that allows users to discover, explore, and manage movies & TV shows with a clean UI, secure authentication, and scalable backend architecture.  
 It integrates **Clerk authentication**, **Inngest background jobs**, and an external movie API to deliver a production-ready experience.
